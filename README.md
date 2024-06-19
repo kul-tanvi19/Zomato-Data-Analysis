@@ -31,7 +31,7 @@ Performed following tasks :
 <br>
 </br>
 Dashboard
-  ![image](https://github.com/kul-tanvi19/Zomato-Data-Analysis/assets/172184420/48b9c982-dd55-4b85-9bb0-a85e49ebed0f)
+![image](https://github.com/kul-tanvi19/Zomato-Data-Analysis/assets/172184420/48b9c982-dd55-4b85-9bb0-a85e49ebed0f)
 
 
 
